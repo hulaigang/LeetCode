@@ -1,4 +1,8 @@
 package LeetCode;
+
+import java.util.Collection;
+import java.util.Collections;
+
 /**
  * 解题思路：这题是除法，所以先普及下除法术语
  * 商，公式是：(被除数-余数)÷除数=商，记作：被除数÷除数=商...余数，是一种数学术语。
